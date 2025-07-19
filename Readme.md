@@ -97,16 +97,9 @@ See `main.py` for the full implementation of the leave management server.
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Acknowledgements
 
 - [FastMCP](https://github.com/rooch-network/fastmcp)
 - [Anthropic Claude Desktop](https://www.anthropic.com/claude)
 ```
 
----
